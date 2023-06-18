@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971350406704",
+    "firebase_url": "https://pruebas-fire-base.firebaseio.com",
+    "project_id": "pruebas-fire-base",
+    "storage_bucket": "pruebas-fire-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971350406704:android:10143b0ae156dca0e09ff5",
+        "android_client_info": {
+          "package_name": "com.example.fb_service_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971350406704-41mnio2ft1oe0mn947tdau9efnj1r24g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBqTOZ1t0zMJHMETOTItm8AeXl-c2B0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971350406704-41mnio2ft1oe0mn947tdau9efnj1r24g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971350406704-cgdo7eh16qc7nihhns7mkrk6p01gbvf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbServiceTestApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
